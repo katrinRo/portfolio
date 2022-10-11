@@ -12,7 +12,7 @@
 5. MySql
 
 ### Мои работы:
-https://katrinro.github.io/katya_rodionova.io/
+[Первая работа](https://katrinro.github.io/katya_rodionova.io/)
 
 #### Контакты:
 [Github](https://github.com/katrinRo)
